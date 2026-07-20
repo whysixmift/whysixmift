@@ -49,12 +49,8 @@ Here are a few projects I'm particularly proud of:
 ### GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=whysixmift&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F2FE&icon_color=00F2FE&text_color=a9b1d6" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whysixmift&layout=compact&theme=tokyonight&hide_border=true&title_color=00F2FE&text_color=a9b1d6" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=whysixmift&theme=tokyonight&hide_border=true&ring=00F2FE&fire=00F2FE&currStreakLabel=00F2FE" alt="GitHub Streak" width="98%" />
+  <img src="https://ghstats.dev/api/card?username=whysixmift&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  <img src="https://ghstats.dev/api/langs?username=whysixmift&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 </p>
 
 ---
