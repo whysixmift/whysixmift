@@ -1,11 +1,7 @@
-<p align="center">
-  <img src="developer_banner.jpg" alt="Developer Banner" width="100%" />
-</p>
-
 # Hello World, I'm Julian (aka whysixmift)
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&duration=3000&pause=1000&color=00F2FE&background=00000000&vCenter=true&width=450&lines=Fullstack+Developer;Embedded+Systems+%26+IoT+Enthusiast;AI+%26+Systems+Programmer;Garudahacks+7.0+Participant;First+Tech+Challenge+Alumni" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&duration=3000&pause=1000&color=00F2FE&background=00000000&vCenter=true&width=450&lines=Fullstack+Developer;Embedded+Systems+%26+IoT+Enthusiast;AI+%26+Systems+Programmer;Google+Vibe+Code+Contestant" alt="Typing SVG" />
 </p>
 
 ---
@@ -79,11 +75,20 @@ Here are a few projects I'm particularly proud of:
 
 ---
 
-### GitHub Stats & Activity
+### GitHub Stats & Analytical Dashboard
 
 <p align="center">
   <img src="https://ghstats.dev/api/card?username=whysixmift&theme=tokyonight" alt="GitHub Stats" width="48%" />
   <img src="https://ghstats.dev/api/langs?username=whysixmift&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whysixmift&theme=tokyonight" alt="Profile Details" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=whysixmift&theme=tokyonight" alt="Productive Time" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=whysixmift&theme=tokyonight" alt="Activity Graph" width="97%" />
 </p>
 
 ---
