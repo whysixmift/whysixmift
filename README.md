@@ -1,7 +1,7 @@
 # Hello World, I'm Julian (aka whysixmift)
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&duration=3000&pause=1000&color=00F2FE&background=00000000&vCenter=true&width=450&lines=Fullstack+Developer;Embedded+Systems+%26+IoT+Enthusiast;AI+%26+Systems+Programmer;Google+Vibe+Code+Contestant" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&duration=3000&pause=1000&color=00F2FE&background=00000000&vCenter=true&width=450&lines=Fullstack+Developer;Embedded+Systems+%26+IoT+Enthusiast;AI+%26+Systems+Programmer;Garudahacks+7.0+Participant;First+Tech+Challenge+Alumni" alt="Typing SVG" />
 </p>
 
 ---
