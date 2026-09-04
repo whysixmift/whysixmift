@@ -6,7 +6,7 @@ Software developer interested in Robotics, systems programming, and IoT.
 
 <p align="center">
   <a href="https://hackatime.hackclub.com">
-    <img src="https://img.shields.io/badge/TOTAL_TIME-145h-181824?style=for-the-badge&labelColor=0f0f17&color=9333ea" alt="Total Time" />
+    <img src="https://img.shields.io/badge/TOTAL_TIME-171h-181824?style=for-the-badge&labelColor=0f0f17&color=9333ea" alt="Total Time" />
     <img src="https://img.shields.io/badge/TOP_PROJECT-Miniature_Transformer-181824?style=for-the-badge&labelColor=0f0f17&color=9333ea" alt="Top Project" />
     <img src="https://img.shields.io/badge/TOP_LANGUAGE-Rust-181824?style=for-the-badge&labelColor=0f0f17&color=9333ea" alt="Top Language" />
     <br>
