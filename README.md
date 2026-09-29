@@ -2,7 +2,7 @@
 
 ---
 
-### 🛠️ Tech Stack & Toolbox
+### Tech Stack & Toolbox
 
 <p align="center">
   <a href="https://skillicons.dev">
